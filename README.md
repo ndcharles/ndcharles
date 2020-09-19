@@ -38,4 +38,4 @@ Please see the pinned repos below for some of my recent work and some works in p
 * :necktie: [LinkedIn](https://www.linkedin.com/in/nndcharles)<br>
 * :bulb: Personal site: [Opendiari!](https://www.opendiari.com)<br>
 
-#### ... more on me and about MyLifeInTech are [also available](https://www.opendiari.com/my-life-in-tech).
+#### ... more on me and about MyLifeInTech are [also available](https://www.opendiari.com/topics/my-life-in-tech).
