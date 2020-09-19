@@ -33,8 +33,9 @@ An engineering graduate who found himself in the classroom. I am currently in da
 Please see the pinned repos below for some of my recent work and some works in progress.
 
 ## Get in touch
-:bird: [Twitter](https://twitter.com/nndcharles)<br>
-:necktie: [LinkedIn](https://www.linkedin.com/in/nndcharles)<br>
-:bulb: Personal site: [Opendiari!](https://www.opendiari.com)<br>
+* :iphone: [Facebook](https://www.facebook.com/ndcharles) 
+* :bird: [Twitter](https://twitter.com/nndcharles)<br>
+* :necktie: [LinkedIn](https://www.linkedin.com/in/nndcharles)<br>
+* :bulb: Personal site: [Opendiari!](https://www.opendiari.com)<br>
 
 #### ... more on me and about MyLifeInTech are [also available](https://www.opendiari.com/my-life-in-tech).
