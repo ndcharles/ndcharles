@@ -1,6 +1,6 @@
 # Ndidi Charles Nweke (@ndcharles)
 
-An engineering graduate who found himself in the classroom. I am currently in data science/ML, which has been awesome so far🙌. My interests are in real-life applications of data science/ML especially, but not limited to, business/marketing analytics and education.
+An engineering graduate who found himself in the classroom. I am currently a data scientist, which has been awesome so far🙌. My interests are in real-life applications of data science/Machine Learning.
 
 ## Fun fact
 ⚡ An analytically complex mind built for problem solving✨<br>
@@ -27,15 +27,17 @@ An engineering graduate who found himself in the classroom. I am currently in da
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+* :bulb: Personal site: [Opendiari!](https://www.opendiari.com)<br>
+
+#### ... more on me and about MyLifeInTech are [also available](https://www.opendiari.com/topics/my-life-in-tech).
+
 -->
 
 ## Works so far
-Please see the pinned repos below for some of my recent work and some works in progress.
+Please see my [Portfolio](https://ndcharles.github.io) for some of my recent work and some works in progress.
 
 ## Get in touch
 * :iphone: [Facebook](https://www.facebook.com/ndcharles) 
 * :bird: [Twitter](https://twitter.com/nndcharles)<br>
 * :necktie: [LinkedIn](https://www.linkedin.com/in/nndcharles)<br>
-* :bulb: Personal site: [Opendiari!](https://www.opendiari.com)<br>
-
-#### ... more on me and about MyLifeInTech are [also available](https://www.opendiari.com/topics/my-life-in-tech).
