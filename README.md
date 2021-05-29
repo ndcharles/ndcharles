@@ -28,6 +28,7 @@ An engineering graduate who found himself in the classroom. I am currently a dat
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+* :iphone: [Facebook](https://www.facebook.com/ndcharles) 
 * :bulb: Personal site: [Opendiari!](https://www.opendiari.com)<br>
 
 #### ... more on me and about MyLifeInTech are [also available](https://www.opendiari.com/topics/my-life-in-tech).
@@ -38,6 +39,5 @@ An engineering graduate who found himself in the classroom. I am currently a dat
 Please see my [Portfolio](https://ndcharles.github.io) for some of my recent work and some works in progress.
 
 ## Get in touch
-* :iphone: [Facebook](https://www.facebook.com/ndcharles) 
 * :bird: [Twitter](https://twitter.com/nndcharles)<br>
 * :necktie: [LinkedIn](https://www.linkedin.com/in/nndcharles)<br>
