@@ -1,8 +1,13 @@
 # Ndidi Charles Nweke (@ndcharles)
 
-An engineering graduate who found himself in the classroom. I am currently a data scientist, which has been awesome so far🙌. My interests are in real-life applications of data science/Machine Learning.
+I am currently a data scientist, a journey which has been awesome so far🙌. My interests are in real-life applications of data science/Machine Learning.
 
 ## Fun fact
+<!-- 🔭 I’m currently working on [Cheta](https://www.cheta.com.ng)<br>
+Cheta is a project born out of my classroom experience. After leaving the classroom, I was still a home lesson teacher for a while. It was then that I realised how difficult it is to help kids practice for common entrance examinations (NCEE). This is me trying to build something for myself using my knowledge of WordPress.<br>
+
+🔭 I’m currently working on Stopeet! A search platform to help detect fake job locations.
+-->
 ⚡ An analytically complex mind built for problem solving✨<br>
 
 ## My values
@@ -29,14 +34,15 @@ An engineering graduate who found himself in the classroom. I am currently a dat
 - ⚡ Fun fact: ...
 
 * :iphone: [Facebook](https://www.facebook.com/ndcharles) 
-* :bulb: Personal site: [Opendiari!](https://www.opendiari.com)<br>
+* :bulb: Data et Tech blog: [MLIT](https://www.ndcharles.github.io)<br>
 
 #### ... more on me and about MyLifeInTech are [also available](https://www.opendiari.com/topics/my-life-in-tech).
 
 -->
 
 ## Works so far
-Please see my [Portfolio](https://ndcharles.github.io) for some of my recent work and some works in progress.
+* 🔭 My [Portfolio](https://ndcharles.github.io/data_portfolio) for some of my recent work and some works in progress.
+* :bulb: Data et Tech blog: [MLIT](https://www.ndcharles.github.io)<br>
 
 ## Get in touch
 * :bird: [Twitter](https://twitter.com/nndcharles)<br>
