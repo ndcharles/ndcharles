@@ -3,7 +3,7 @@
 I am currently a data scientist, a journey which has been awesome so far🙌. My interests are in real-life applications of data science/Machine Learning.
 
 ## Fun fact
-<!-- 🔭 I’m currently working on [Cheta](https://www.cheta.com.ng)<br>
+<!-- 🔭 I’m currently working on [Cheta](https://cheta.com.ng)<br>
 Cheta is a project born out of my classroom experience. After leaving the classroom, I was still a home lesson teacher for a while. It was then that I realised how difficult it is to help kids practice for common entrance examinations (NCEE). This is me trying to build something for myself using my knowledge of WordPress.<br>
 
 🔭 I’m currently working on Stopeet! A search platform to help detect fake job locations.
@@ -33,17 +33,17 @@ Cheta is a project born out of my classroom experience. After leaving the classr
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-* :iphone: [Facebook](https://www.facebook.com/ndcharles) 
-* :bulb: Data et Tech blog: [MLIT](https://www.ndcharles.github.io)<br>
+* :iphone: [Facebook](https://facebook.com/ndcharles) 
+* :bulb: Data et Tech blog: [MLIT](https://ndcharles.github.io)<br>
 
-#### ... more on me and about MyLifeInTech are [also available](https://www.opendiari.com/topics/my-life-in-tech).
+#### ... more on me and about MyLifeInTech are [also available](https://opendiari.com/topics/my-life-in-tech).
 
 -->
 
 ## Works so far
 * 🔭 My [Portfolio](https://ndcharles.github.io/data_portfolio) for some of my recent work and some works in progress.
-* :bulb: Data et Tech blog: [MLIT](https://www.ndcharles.github.io)<br>
+* :bulb: Data et Tech blog: [MLIT](https://ndcharles.github.io)<br>
 
 ## Get in touch
 * :bird: [Twitter](https://twitter.com/nndcharles)<br>
-* :necktie: [LinkedIn](https://www.linkedin.com/in/nndcharles)<br>
+* :necktie: [LinkedIn](https://linkedin.com/in/nndcharles)<br>
