@@ -1,0 +1,31 @@
+# This is a workflow to update my readme with 3 latest blog posts from MLIT blog
+
+name: Blog posts on ReadMe
+on:
+  schedule:
+    # Runs every day at 9am UTC
+    - cron: '0 */84 * * *'
+
+jobs:
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - uses: actions/checkout@v3
+      - name: Get RSS Feed
+        uses: ndcharles/blog_posts@master
+        with:
+          feed_url: https://ndcharles.github.io/feed
+          count: 3
+      - name: Commit file changes
+        run: |
+            git config --global user.name 'ndcharles'
+            git config --global user.email 'ndcharles.edu@gmail.com'
+            git add .
+            git diff --quiet --cached || git commit -m "Add latest blog posts" 
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
