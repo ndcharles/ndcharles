@@ -47,3 +47,7 @@ Cheta is a project born out of my classroom experience. After leaving the classr
 ## Get in touch
 * :bird: [Twitter](https://twitter.com/nndcharles)<br>
 * :necktie: [LinkedIn](https://linkedin.com/in/nndcharles)<br>
+
+## My latest blog posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
