@@ -3,6 +3,10 @@
 name: Blog posts on ReadMe
 on:
   push:
+    branches:
+      - main
+  schedule:
+    - cron: "55 23 * * 0" # Every sunday at 11:55pm
   workflow_dispatch:
 
 jobs:
@@ -10,18 +14,10 @@ jobs:
     name: update blog post
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout current repo to main
+        uses: actions/checkout@v3
+      - name: Unknown step here that handles the rest of the flow 
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: https://ndcharles.github.io/feed
           max_post_count: 3
-      - name: Commit file changes
-        run: |
-            git config --global user.name 'ndcharles'
-            git config --global user.email 'ndcharles.edu@gmail.com'
-            git add .
-            git diff --quiet --cached || git commit -m "Add latest blog posts" 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
