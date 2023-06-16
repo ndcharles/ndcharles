@@ -49,5 +49,5 @@ Cheta is a project born out of my classroom experience. After leaving the classr
 * :necktie: [LinkedIn](https://linkedin.com/in/nndcharles)<br>
 
 ## My latest blog posts
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
