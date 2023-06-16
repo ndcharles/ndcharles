@@ -13,8 +13,8 @@ jobs:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_url: https://ndcharles.github.io/feed
-          count: 3
+          feed_list: https://ndcharles.github.io/feed
+          max_post_count: 3
       - name: Commit file changes
         run: |
             git config --global user.name 'ndcharles'
