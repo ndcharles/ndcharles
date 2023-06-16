@@ -2,20 +2,16 @@
 
 name: Blog posts on ReadMe
 on:
-  schedule:
-    # Runs every day at 9am UTC
-    - cron: '0 */84 * * *'
+  push:
+  workflow_dispatch:
 
 jobs:
-  build:
-    # The type of runner that the job will run on
+  blog:
+    name: update blog post
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - uses: actions/checkout@v3
-      - name: Get RSS Feed
-        uses: ndcharles/ndcharles.github.io@main
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_url: https://ndcharles.github.io/feed
           count: 3
