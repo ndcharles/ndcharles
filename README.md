@@ -50,7 +50,7 @@ Cheta is a project born out of my classroom experience. After leaving the classr
 
 ## My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Data et Operations at ALX](https://ndcharles.github.io/data-operation-alx/)
 - [Advanced Prompt Engineering](https://ndcharles.github.io/advanced-prompt-engineering/)
 - [Don’t Stop | Don’t Think | Just Write!](https://ndcharles.github.io/morning-pages/)
-- [My First Appsheet App was a Failure](https://ndcharles.github.io/first-appsheet-app-failed/)
 <!-- BLOG-POST-LIST:END -->
