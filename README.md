@@ -1,6 +1,6 @@
 # Ndidi Charles Nweke (@ndcharles)
 
-Nice to meet you. My name is Charles, and I am interested in the real-life applications of data science and machine learning. Currently, at ALX, I work at the intersection of data and operations (IT and community) and have built a few products. I work with Spreadsheets, Looker Studio, Tableau, Python, and SQL. I am currently learning and building more LLM-based products and software products to enhance team and community operations.
+Nice to meet you. My name is Charles, and I am interested in the real-life applications of data science and analytics. Currently, at ALX, I work at the intersection of data and IT operations (IT and community) and have built a few products. I work with Spreadsheets, Looker Studio, Tableau, Python, and SQL. I am currently building more LLM-based products and bundling automations to enhance the team and community operations.
 
 ## Fun fact
 <!-- 🔭 I’m currently working on [Cheta](https://cheta.com.ng)<br>
@@ -41,7 +41,7 @@ Cheta is a project born out of my classroom experience. After leaving the classr
 -->
 
 ## Works so far
-* 🔭 My [Portfolio](https://ndcharles.github.io/data-portfolio) for some of my recent work and some works in progress.
+* 🔭 [My Data Portfolio](https://ndcharles.github.io/data-portfolio).
 * :bulb: Data et Tech blog: [MLIT](https://ndcharles.github.io)<br>
 
 ## Get in touch
@@ -50,7 +50,9 @@ Cheta is a project born out of my classroom experience. After leaving the classr
 
 ## My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building ALX Connect - An AI-Powered Community Matching Platform](https://ndcharles.github.io/alx-connect-ai-powered-community-matching)
 - [Data et Operations at ALX](https://ndcharles.github.io/data-operation-alx)
 - [Advanced Prompt Engineering](https://ndcharles.github.io/advanced-prompt-engineering)
 - [Don’t Stop | Don’t Think | Just Write!](https://ndcharles.github.io/morning-pages)
+- [I was at CSA Africa 2022, UNILAG](https://ndcharles.github.io/csa-africa-2022)
 <!-- BLOG-POST-LIST:END -->
