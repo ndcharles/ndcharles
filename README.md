@@ -1,6 +1,6 @@
 # Ndidi Charles Nweke (@ndcharles)
 
-Nice to meet you. My name is Charles, and I am interested in the real-life applications of data science and analytics. Currently, at ALX, I work at the intersection of data and IT operations (IT and community) and have built a few products. I work with Spreadsheets, Looker Studio, Tableau, Python, and SQL. I am currently building more LLM-based products and bundling automations to enhance the team and community operations.
+Nice to meet you. My name is Charles, and I am interested in the real-life applications of data science and analytics. Currently, at ALX, I work at the intersection of data and IT operations and have built a few products. I work with Spreadsheets, Looker Studio, Tableau, Python, and SQL. I am currently building more LLM-based products and bundling automations to enhance the team and community operations.
 
 ## Fun fact
 <!-- 🔭 I’m currently working on [Cheta](https://cheta.com.ng)<br>
@@ -41,12 +41,13 @@ Cheta is a project born out of my classroom experience. After leaving the classr
 -->
 
 ## Works so far
-* 🔭 [My Data Portfolio](https://ndcharles.github.io/data-portfolio).
-* :bulb: Data et Tech blog: [MLIT](https://ndcharles.github.io)<br>
+🔭 [My Data Portfolio](https://ndcharles.github.io/data-portfolio)<br>
+:bulb: [Data & Tech blog](https://ndcharles.github.io)<br>
 
 ## Get in touch
 * :bird: [Twitter](https://twitter.com/nndcharles)<br>
 * :necktie: [LinkedIn](https://linkedin.com/in/nndcharles)<br>
+* 💬 [More details about me](https://linke.ro/ndcharles)<br>
 
 ## My latest blog posts
 <!-- BLOG-POST-LIST:START -->
