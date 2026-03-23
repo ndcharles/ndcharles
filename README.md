@@ -54,6 +54,4 @@ Cheta is a project born out of my classroom experience. After leaving the classr
 - [Building ALX Connect - An AI-Powered Community Matching Platform](https://ndcharles.github.io/alx-connect-ai-powered-community-matching)
 - [Data et Operations at ALX](https://ndcharles.github.io/data-operation-alx)
 - [Advanced Prompt Engineering](https://ndcharles.github.io/advanced-prompt-engineering)
-- [Don’t Stop | Don’t Think | Just Write!](https://ndcharles.github.io/morning-pages)
-- [I was at CSA Africa 2022, UNILAG](https://ndcharles.github.io/csa-africa-2022)
 <!-- BLOG-POST-LIST:END -->
