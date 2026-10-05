@@ -51,7 +51,7 @@ Cheta is a project born out of my classroom experience. After leaving the classr
 
 ## My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Built CommandX: My Own Toolkit for Google Sheets](https://ndcharles.github.io/commandx-google-appscript-add-on)
 - [Building ALX Connect - An AI-Powered Community Matching Platform](https://ndcharles.github.io/alx-connect-ai-powered-community-matching)
 - [Data et Operations at ALX](https://ndcharles.github.io/data-operation-alx)
-- [Advanced Prompt Engineering](https://ndcharles.github.io/advanced-prompt-engineering)
 <!-- BLOG-POST-LIST:END -->
